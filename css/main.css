@@ -362,6 +362,9 @@ img.logo {
   margin-top: 20px;
   font-size: 20px;
 }
+.contact-main i {
+    margin-left: 8px;
+}
 @media (max-width: 767px) {
   .contact-main h1 {
     font-size: 28px;
